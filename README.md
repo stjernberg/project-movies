@@ -15,4 +15,4 @@ The I built a header with navigation. The navigation takes the user to differen 
 
 ## View it live
 
-https://checkout-movies.netlify.app/jgjf
+https://checkout-movies.netlify.app/
